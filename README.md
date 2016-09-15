@@ -8,7 +8,7 @@ scrolling and then modified it to fit my needs. I learned how to do versioning w
 in terminal, set up a live server with digital ocean, and link it to a registered domain 
 name.
 
-Screencast Demo:
+Screencast Demo: https://drive.google.com/open?id=0B8kZvNPkYVOyWGpHd29hX0RtX28
 
 Note: I leverage W3schools css templates, but did more modification work than the project 
 required so I figured it wouldn't be a problem. I tried to comment in the HTML and 
